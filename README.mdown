@@ -1,2 +1,5 @@
-# blog
-hexo
+## This is the backup of my blog
+
+for easy edition between different device , just ingore this project , nothing makes any sense .
+
+![](http://7xku3r.com1.z0.glb.clouddn.com/2015.08.02joker512.jpg)
